@@ -18,7 +18,7 @@
 #
 ###########################################################################
 
-OCULI_PYTHON="python2"
+OCULI_PYTHON="python3"
 OCULI_ENV_PATH=~/"Envs" # no trailing slash, glob chars outside quotes
 OCULI_ENV_NAME="oculi-venv"
 
